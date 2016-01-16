@@ -31,7 +31,7 @@ Paso 4: Sintetiza razones de peso y válidas que nos motiven a aprenderla. Si no
 	- Es la plataforma de publicidad más usada, más potente y con el respaldo pleno de Google.
 
 
-Paso 5: 
+Paso 5: Dinos cómo nos ayudará saber ésta herramienta como ventaja sobre otras personas o empresas semejantes a las nuestras.
 ## ¿Qué tres ventajas competitivas me otorgará?
 	- Me permitirá promover sitios web que realmente funcionan.
 	- Me permitirá dar resultados concretos y medibles.
