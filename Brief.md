@@ -32,13 +32,14 @@ Paso 4: Sintetiza razones de peso y válidas que nos motiven a aprenderla. Si no
 
 
 Paso 5: Dinos cómo ésta herramienta nos tendrá un paso adelante sobre la competencia..
-## ¿Qué tres ventajas competitivas me otorgará?
+## ¿Qué tres ventajas competitivas nos otorgará?
 	- Me permitirá promover sitios web que realmente funcionan.
 	- Me permitirá dar resultados concretos y medibles.
 	- Me permitirá ser consultor en negocios online.
 
 
-## ¿Qué problemas de mis clientes es capaz de solucionar?
+
+## ¿Qué problemas específicos es capaz de solucionar de forma óptima?
 
 	- Me ayudará a desperezar los sitios web de mis clientes y que miren el poder real de la web en su beneficio.
 	- Mejorar su economía a través de una estrategia online sólida y efectiva.
