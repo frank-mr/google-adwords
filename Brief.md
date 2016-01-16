@@ -3,10 +3,8 @@ Paso 1: Especifica herramienta o tecnología sobre la que se aprenderá
 
 
 
-Paso 2: Especifíca que sabes ya de ésta herramienta en éste momento, sin consultar nada.
+Paso 2: Especifíca que sabes ya de ésta herramienta en éste momento, sin consultar nada. Fija tu punto de partida.
 ## Pongámonos en contexto, ¿qué sé ya sobre ésta herramienta?
-
-
 	- Es la plataforma de publicidad por pago de Google.
 	- Es la forma principal en que Google obtiene ingresos.
 	- Google apoya y ayuda mucho a los profesionales de ésta área.
@@ -16,7 +14,7 @@ Paso 2: Especifíca que sabes ya de ésta herramienta en éste momento, sin cons
 	- No es la única plataforma de publicidad, pero sí de las más usadas y de las más importantes.
 
 
-Paso 3: Especifica con precisión qué hace la herramienta, ésto nos ayudará a comprender si realmente es algo que necesitamos o no.
+Paso 3: Especifica.
 ## ¿Para qué sirve exactamente?
 
 	Crear anuncios para promover un producto o servicio a través del buscador de Google, sus principales servicios como Gmail y sus afiliados.
@@ -24,6 +22,7 @@ Paso 3: Especifica con precisión qué hace la herramienta, ésto nos ayudará a
 	El objetivo de Google es ofrecer una experiencia agradable a los usuarios y un modelo de negocio rentable a los anunciantes. Por tanto, el modelo equilibra ambos.
 
 
+Paso 4: Sintetiza razones de peso y válidas que nos motiven a aprenderla. Si no las hay, posiblemente no nos interese.
 ## ¿Qué tres razones principales hay para aprender a usarla?
 
 
@@ -32,6 +31,7 @@ Paso 3: Especifica con precisión qué hace la herramienta, ésto nos ayudará a
 	- Es la plataforma de publicidad más usada, más potente y con el respaldo pleno de Google.
 
 
+Paso 5: 
 ## ¿Qué tres ventajas competitivas me otorgará?
 	- Me permitirá promover sitios web que realmente funcionan.
 	- Me permitirá dar resultados concretos y medibles.
