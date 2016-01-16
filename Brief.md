@@ -45,7 +45,8 @@ Paso 6: un problema bien planteado es un problema a medio resolver.
 	- Mejorar su economía a través de una estrategia online sólida y efectiva.
 
 
-## ¿Qué problemas específicos es capaz de solucionar de forma óptima?
+Paso 7: la respuesta a ésta pregunta nos puede ayudar a mejorar nuestros argumentos de ventas y promover lo que realmente a los clientes les gustará.
+## De los problemas anteriores, ¿cuál o cuáles en específico serían especialmente interesantes para nuestros clientes?
 
 
 
