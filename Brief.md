@@ -1,9 +1,9 @@
-
+Paso 1: Especifica herramienta o tecnología sobre la que se aprenderá
 # Herramienta | Tecnología: Google Adwords.
 
 
 
-
+Paso 2: Especifíca que sabes ya de ésta herramienta en éste momento, sin consultar nada.
 ## Pongámonos en contexto, ¿qué sé ya sobre ésta herramienta?
 
 
