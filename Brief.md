@@ -16,6 +16,7 @@ Paso 2: Especifíca que sabes ya de ésta herramienta en éste momento, sin cons
 	- No es la única plataforma de publicidad, pero sí de las más usadas y de las más importantes.
 
 
+Paso 3: Especifica con precisión qué hace la herramienta, ésto nos ayudará a comprender si realmente es algo que necesitamos o no.
 ## ¿Para qué sirve exactamente?
 
 	Crear anuncios para promover un producto o servicio a través del buscador de Google, sus principales servicios como Gmail y sus afiliados.
