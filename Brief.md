@@ -38,11 +38,15 @@ Paso 5: Dinos cómo ésta herramienta nos tendrá un paso adelante sobre la comp
 	- Me permitirá ser consultor en negocios online.
 
 
-
+Paso 6: un problema bien planteado es un problema a medio resolver.
 ## ¿Qué problemas específicos es capaz de solucionar de forma óptima?
 
 	- Me ayudará a desperezar los sitios web de mis clientes y que miren el poder real de la web en su beneficio.
 	- Mejorar su economía a través de una estrategia online sólida y efectiva.
+
+
+## ¿Qué problemas específicos es capaz de solucionar de forma óptima?
+
 
 
 ## Sabiendo lo anterior, ¿qué objetivo persigo al aprender ésta herramienta?
